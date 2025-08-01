@@ -1,0 +1,48 @@
+AI-Powered Resume Analyzer Pro
+===============================================
+
+Copyright (c) 2025 Isha Verma
+Version: 1.0.0
+All rights reserved.
+
+INTELLECTUAL PROPERTY NOTICE
+----------------------------
+This software and associated documentation files (the "Software") are the 
+intellectual property of Isha Verma. The Software contains proprietary and 
+confidential information protected by copyright laws.
+
+USAGE RESTRICTIONS
+------------------
+- No part of this Software may be reproduced, distributed, or transmitted in any form or by any means without prior written permission from the author.
+- Unauthorized copying, modification, distribution, or use is strictly prohibited.
+- This Software is provided for demonstration and portfolio purposes.
+
+FEATURES
+--------
+- AI-powered interview question generation
+- Resume and job description analysis
+- Personalized content generation
+- Comprehensive answer evaluation
+- Multiple export formats
+- Advanced NLP processing
+
+TECHNOLOGY STACK
+----------------
+- Python 3.x
+- Natural Language Processing (NLP)
+- Machine Learning algorithms
+- TextBlob for sentiment analysis
+- Regular expressions for pattern matching
+
+CONTACT INFORMATION
+------------------
+Author: Isha Verma
+Project: AI-Powered Resume Analyzer Pro
+Email: ishaverma311@gmail.com
+GitHub: [your-github-profile]
+
+For licensing inquiries or permissions, please contact the author.
+
+---
+© 2025 Isha Verma. All rights reserved.
+AI-Powered Resume Analyzer Pro v1.0.0
